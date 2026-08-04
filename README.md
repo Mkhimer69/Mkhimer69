@@ -36,7 +36,7 @@ I enjoy combining operational expertise with technology to solve real business p
 
 ### Internal Compliance & Market Eligibility Decision Support Platform
 
-A centralized decision-support platform that enables operations teams to instantly retrieve compliance, onboarding, and eligibility requirements across US and Canadian markets.
+A centralized decision-support platform enabling operations teams to instantly retrieve market-specific compliance, onboarding, and eligibility requirements across US and Canadian markets.
 
 **Highlights**
 - Production system
@@ -44,20 +44,41 @@ A centralized decision-support platform that enables operations teams to instant
 - 0.03% error rate
 - Region comparison capability
 - Intelligent search experience
+- Centralized operational knowledge
 
 🔗 Repository:
 https://github.com/Mkhimer69/Internal-Compliance-Market-Eligibility-Decision-Support-Platform
 
 ---
 
+### Agent Operations Assistant
+
+A centralized operational assistant designed to help agents quickly access procedures, guidance, resources, and operational information from a single interface.
+
+**Highlights**
+- Productivity-focused solution
+- Reduced information lookup effort
+- Centralized operational resources
+- Improved agent efficiency
+- Designed around day-to-day operational workflows
+
+🔗 Repository:
+https://github.com/Mkhimer69/Agent-Operations-Assistant
+
+---
+
 ### RapidResponse
 
-Operational automation platform designed to streamline workflows, improve efficiency, and reduce manual effort through intelligent process automation.
+An operational automation platform designed to streamline workflows, reduce manual effort, and improve execution speed through automation.
+
+**Highlights**
+- Workflow automation
+- Operational efficiency improvements
+- Reduced repetitive manual tasks
+- Scalable process support
 
 🔗 Repository:
 https://github.com/Mkhimer69/RapidResponse
-
----
 
 ## Technical Skills
 
@@ -77,16 +98,34 @@ https://github.com/Mkhimer69/RapidResponse
 - Reporting Automation
 - Operational Strategy
 
-### Platforms & Tools
+## Platforms & Tools
 
+### Workforce & Operations
+
+- Verint
+- Salesforce
+- Zendesk
+- Freshchat
 - Google Workspace
-- Home Assistant
-- GitHub
-- Power BI
+
+### Analytics & Reporting
+
 - Excel
 - Google Sheets
+- Power BI
 
----
+### Development & Automation
+
+- Google Apps Script
+- GitHub
+- AutoHotkey
+- Home Assistant
+
+### Collaboration
+
+- Slack
+- Webex
+- Microsoft Teams
 
 ## Current Interests
 
