@@ -1,154 +1,42 @@
-# Hi, I'm Fathy Mkhimer 👋
+<h1 align="center">Hi, I'm Fathy Mkhimer 👋</h1>
 
-### Lead Real-Time Analyst | Automation Developer | Decision Support & Operational Excellence
+<p align="center">
+  <b>Lead Real-Time Analyst</b> · Building automation, analytics & decision-support
+  solutions that improve operational efficiency.
+</p>
 
-I specialize in transforming operational challenges into scalable solutions through automation, analytics, and decision-support platforms.
-
-My work focuses on:
-
-- Process Automation
-- Real-Time Operations
-- Workforce & Capacity Analytics
-- Decision Support Systems
-- Home Assistant & Smart Home Automations
-- Google Apps Script Development
-- Operational Excellence
-
----
-
-## About Me
-
-I currently work as a Lead Real-Time Analyst, where I design and build internal tools that help teams make faster, more consistent, and data-driven decisions.
-
-Over the years, I have developed solutions that:
-
-- Reduce manual effort
-- Centralize fragmented information
-- Improve operational efficiency
-- Enable faster decision-making
-- Automate repetitive workflows
-
-I enjoy combining operational expertise with technology to solve real business problems.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS%20Connect-FF9900?style=flat&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white">
+  <img src="https://img.shields.io/badge/Tampermonkey-00485B?style=flat&logo=tampermonkey&logoColor=white">
+</p>
 
 ---
 
-## Featured Projects
+### 🚀 Featured Projects
 
-### Internal Compliance & Market Eligibility Decision Support Platform
+| Project | What it does |
+|---|---|
+| 🎨 **[AWS Connect Theme Studio](https://github.com/Mkhimer69/AWS-Connect-Theme-Studio)** | 5-theme userscript that fully reskins the Amazon Connect workspace — including legacy surfaces AWS never tokenized |
+| 🧰 **[WFM Assistant](https://github.com/Mkhimer69/WFM-Assistant)** | Web toolkit for WFM & RTA teams — AHOD management, HC planning, daily ops in one place |
+| 🏠 **[My-Team](https://github.com/Mkhimer69/My-Team)** | Home Assistant custom integration (HACS) for team presence & ops monitoring |
+| 📊 **[AWS Magic Monitor](https://github.com/Mkhimer69/AWS-Magic-Monitor)** | Real-time Connect workforce monitoring dashboard |
+| ⚡ **[RapidResponse](https://github.com/Mkhimer69/RapidResponse)** | Snippet manager for support pros — create, search, reuse responses instantly |
 
-A centralized decision-support platform enabling operations teams to instantly retrieve market-specific compliance, onboarding, and eligibility requirements across US and Canadian markets.
+### 🛠 What I work with
+- **Automation:** Python · Google Apps Script · Tampermonkey/userscripts · Home Assistant
+- **Analytics:** WFM & capacity analytics · real-time ops dashboards · decision support
+- **Ops:** Amazon Connect administration · routing & workforce optimization
 
-**Highlights**
-- Production system
-- Thousands of weekly executions
-- 0.03% error rate
-- Region comparison capability
-- Intelligent search experience
-- Centralized operational knowledge
-
-🔗 Repository:
-https://github.com/Mkhimer69/Internal-Compliance-Market-Eligibility-Decision-Support-Platform
-
----
-
-### Agent Operations Assistant
-
-A centralized operational assistant designed to help agents quickly access procedures, guidance, resources, and operational information from a single interface.
-
-**Highlights**
-- Productivity-focused solution
-- Reduced information lookup effort
-- Centralized operational resources
-- Improved agent efficiency
-- Designed around day-to-day operational workflows
-
-🔗 Repository:
-https://github.com/Mkhimer69/Agent-Operations-Assistant
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mkhimer69&show_icons=true&theme=tokyonight&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkhimer69&layout=compact&theme=tokyonight">
+</p>
 
 ---
 
-### RapidResponse
-
-An operational automation platform designed to streamline workflows, reduce manual effort, and improve execution speed through automation.
-
-**Highlights**
-- Workflow automation
-- Operational efficiency improvements
-- Reduced repetitive manual tasks
-- Scalable process support
-
-🔗 Repository:
-https://github.com/Mkhimer69/RapidResponse
-
-## Technical Skills
-
-### Languages & Development
-
-- JavaScript
-- Google Apps Script
-- HTML
-- CSS
-  
-### Analytics & Operations
-
-- Real-Time Analytics
-- Workforce Management
-- Capacity Planning
-- Intraday Management
-- Reporting Automation
-- Operational Strategy
-
-## Platforms & Tools
-
-### Workforce & Operations
-
-- Verint
-- Salesforce
-- Zendesk
-- Freshchat
-- Google Workspace
-
-### Analytics & Reporting
-
-- Excel
-- Google Sheets
-- Power BI
-
-### Development & Automation
-
-- Google Apps Script
-- GitHub
-- AutoHotkey
-- Home Assistant
-
-### Collaboration
-
-- Slack
-- Webex
-- Microsoft Teams
-
-## Current Interests
-
-- Automation
-- Operational Excellence
-- AI for Operations
-- Decision Support Platforms
-- Workforce Analytics
-- Smart Home Technologies
-
----
-
-## GitHub Stats
-
-> Building solutions that solve real operational problems, not just writing code.
-
----
-
-## Connect With Me
-
-- LinkedIn: www.linkedin.com/in/fathy-mkhimer
-- GitHub: https://github.com/Mkhimer69
-
----
-
-⭐ Thanks for visiting my profile.
+<p align="center"><i>Free tools, built for real operations teams.</i> ⭐ a repo if it helps you!</p>
