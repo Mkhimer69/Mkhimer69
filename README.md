@@ -33,8 +33,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mkhimer69&show_icons=true&theme=tokyonight&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkhimer69&layout=compact&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mkhimer69&amp;show_icons=true&amp;theme=tokyonight&amp;count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkhimer69&amp;layout=compact&amp;theme=tokyonight">
 </p>
 
 ---
