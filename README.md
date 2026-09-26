@@ -31,12 +31,9 @@
 - **Analytics:** WFM & capacity analytics · real-time ops dashboards · decision support
 - **Ops:** Amazon Connect administration · routing & workforce optimization
 
-### 📈 GitHub Stats
 ![HACS Custom](https://img.shields.io/badge/HACS-Custom-41BDF5?logo=home-assistant&logoColor=white)
 ![Made for](https://img.shields.io/badge/Home%20Assistant-Custom%20Integration-41BDF5?logo=home-assistant&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-
 ---
-
 <p align="center"><i>Free tools, built for real operations teams.</i> ⭐ a repo if it helps you!</p>
