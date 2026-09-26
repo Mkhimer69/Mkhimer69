@@ -32,10 +32,10 @@
 - **Ops:** Amazon Connect administration · routing & workforce optimization
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mkhimer69&amp;show_icons=true&amp;theme=tokyonight&amp;count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkhimer69&amp;layout=compact&amp;theme=tokyonight">
-</p>
+![HACS Custom](https://img.shields.io/badge/HACS-Custom-41BDF5?logo=home-assistant&logoColor=white)
+![Made for](https://img.shields.io/badge/Home%20Assistant-Custom%20Integration-41BDF5?logo=home-assistant&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 
 ---
 
